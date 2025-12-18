@@ -1,0 +1,17 @@
+{
+  "name": "deanna-telegram-bot",
+  "version": "1.0.0",
+  "description": "Deanna AI Personal Shopper Telegram Bot",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "express": "^5.2.1",
+    "grammy": "^1.31.3",
+    "openai": "^4.73.0"
+  }
+}

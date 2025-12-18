@@ -1,6 +1,3 @@
-# Requirements for Python Bot
 python-telegram-bot==21.7
 openai==1.58.1
 python-dotenv==1.0.1
-mysql-connector-python==9.1.0
-requests==2.32.3
