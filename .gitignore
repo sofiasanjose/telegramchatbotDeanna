@@ -38,3 +38,6 @@ yarn-error.log*
 *.key
 *.pem
 *.rtf
+
+# Local run logs
+*.log
